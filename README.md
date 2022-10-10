@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to my Github!
+
+My name is Dawson Tilley, and here is my repository for personal projects and some group projects. The projects here show off some of my skils in different languages and the progress in my full stack skill set over the past year. By looking at my projects you can see my usage of Node, React, MongoDB, and Express in JavaScript. While also seeing some of my work in Python and Java. 
+
+Contact me if you have any inquiries or just want to chat about my work! 
+
 
 <!--
 **dawsontilley/dawsontilley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
